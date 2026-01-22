@@ -2,9 +2,9 @@
 
 **QA Manual Tester | Technical Programming Student**
 
-Passionate about software quality, best practices, and clean code  
-Detail-oriented and quality-focused  
-Aiming to grow into **Development or Test Automation**  
+Passionate about software quality, best practices, and clean code<br>
+Detail-oriented and quality-focused<br>
+Aiming to grow into **Development or Test Automation**<br>
 Lifelong learner, always exploring from testing to software development
 
 ---
