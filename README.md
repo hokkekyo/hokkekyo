@@ -1,6 +1,6 @@
 # Hi, I'm Luciano Alvarez
 
-**QA Manual Tester | Technical Programming Student**
+**QA Manual Tester and Test Team Lead at Applause | Technical Programming Student**
 
 Passionate about software quality, best practices, and clean code<br>
 Detail-oriented and quality-focused<br>
